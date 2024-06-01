@@ -1,3 +1,4 @@
+
 ### What is QA? 
 
 Quality Assurance, refers to a systematic process designed to determine whether a product or service meets specified requirements. QA involves activities and measures taken to ensure the quality of products or services in a consistent manner. 
@@ -27,4 +28,5 @@ A QA Engineer ensures software quality through comprehensive testing processes. 
     - Centralized control over testing data
     - The ability to repeat and scale test cases
 
+    
     
