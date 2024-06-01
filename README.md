@@ -5,7 +5,7 @@ Welcome to my 60 Days of Learning QA repository! This project is a personal chal
 - [Overview](#overview)
 - [Goals](#goals)
 - [Daily Logs](#Logs)
-  - [Day 1: Introduction to QA](#day-1-introduction-to-qa)
+  - [Day 1: Introduction to QA](logs/day1.md)
 - [Resources](#resources)
 - [Projects](#projects)
 - [Contributing](#contributing)
