@@ -7,6 +7,7 @@ Welcome to my 60 Days of Learning QA repository! This project is a personal chal
 - [Daily Logs](#Logs)
   - [Day 1: Introduction to QA](logs/day1.md)
   - [Day 2: Introduction to SDLC](logs/day2.md)
+  - [Day 3: QA Methodologies and Practices](logs/day3.md)
 - [Resources](#resources)
 - [Projects](#projects)
 - [Contributing](#contributing)
@@ -26,6 +27,7 @@ Quality Assurance is a crucial part of the software development lifecycle, ensur
 ### Logs
 - [Day 1: Introduction to QA](logs/day1.md)
 - [Day 2: Introduction to SDLC](logs/day2.md)
+- [Day 3: QA Methodologies and Practices](logs/day3.md)
 
 ## Resources
 Throughout this challenge, I will be using various resources to aid my learning. Here are some of the key resources:
